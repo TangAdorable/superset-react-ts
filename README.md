@@ -1,17 +1,19 @@
 # React TypeScript & Embedding Superset Dashboards
 
-## Getting Started
-### git clone
+### Getting Started
 ```sh
- git clone https://github.com/ezynook/superset.git
+ git clone https://github.com/TangAdorable/superset-react-ts.git
 ```
 
-### install package
 ```sh
  npm install
 ```
 
-### start project
 ```sh
  npm run dev
+```
+
+### reference
+```sh
+ git clone https://github.com/ezynook/superset.git
 ```
